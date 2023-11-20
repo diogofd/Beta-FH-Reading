@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+katex: True
 ---
 
 This is the official page for the readong group on $$\beta$$-Factorization Homology run by [Jennifer Brown](http://jmhbrown.github.io/) and Diogo Freire de Andrade in the Fall Semester of the 2023/2024.
