@@ -23,7 +23,7 @@ email: diogomariafa@hotmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   Winter 2023/2024 - \(\beta\)-Factorization Homology reading group
-baseurl: "/Beta-FH-Reading" # the subpath of your site, e.g. /blog
+baseurl: "/Beta-FH-Reading/" # the subpath of your site, e.g. /blog
 url: "https://diogofd.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  
