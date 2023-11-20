@@ -21,7 +21,7 @@ The planned structure for the talks will be as follows:
   - [Notes]() by someone.
 - **Talk 2**: Alpha Factorization Homology: Definition (I think just left Kan extension stuff): Excision, intuition and compuatations.
   - [Notes]() by someone.
-- **Talk 3**: Relationship between $\mathbb{E}_k$-algebras and $$(\infty,k)$$-categories. (Rigidity vs Adjointness). As a specific example talk about $$\mathsf{Alg}_{2}(\mathsf{Cat})$$ vs $$\mathsf{BrTens}$$.
+- **Talk 3**: Relationship between $$\mathbb{E}_k$$-algebras and $$(\infty,k)$$-categories. (Rigidity vs Adjointness). As a specific example talk about $$\mathsf{Alg}_{2}(\mathsf{Cat})$$ vs $$\mathsf{BrTens}$$.
   - [Notes]() by someone.
 - **Talk 4**: $$\beta$$-Factorization Homology on $$S^1$$. This isn't published yet. It's basically about Hochschild homology. Talk about tensor excision.
   - [Notes]() by someone
